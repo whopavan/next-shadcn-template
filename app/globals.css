@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  font-family: 'Satoshi', Arial, Helvetica, sans-serif;
+  font-family: 'Satoshi', --apple-system, system-ui, Arial, Helvetica, sans-serif;
 }
 
 @layer utilities {
