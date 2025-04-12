@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+NextJS, Tailwindcss v3 & Shadcn template. Includes basic light and dark mode switch.
+Feel free to raise PR for any changes you want to see ⭐️
 
 ## Getting Started
 
